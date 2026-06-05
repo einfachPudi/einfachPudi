@@ -14,16 +14,8 @@ In my spare time I create WoW addons, Project Zomboid mods, and self-host far to
 ## Currently Into
 
 - Building client sites with Next.js — making the web slightly less ugly
-- Writing WoW addons and Project Zomboid mods — I just love to mess with things
-- Self-hosting things that absolutely have a perfectly good SaaS alternative
-- Automating things that didn't need automation (but they do now)
-
----
-
-## Current Focus
-
 - Diving into GuildWeave rewrites that definitely started as "just a quick fix"
-- Filling our PZ RP server with life and creating some immersive stories (mostly)
+- Filling our PZ RP server with life and creating some immersive stories (hopefully)
 - Telling myself I don't need another container in my homelab (then adding two)
 
 ---
