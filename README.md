@@ -1,6 +1,6 @@
 <div align="center">
 
-# einfachPudi
+# Hey, I'm Pudi 👋
 
 **Freelance Developer · Game Modder · Homelab Enthusiast**
 
