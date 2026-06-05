@@ -30,19 +30,19 @@ In my spare time I create WoW addons, Project Zomboid mods, and self-host far to
 
 ## Tech Stack
 
-**Frontend**  
+**Frontend**<br><br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 
-**Backend & Languages**  
+**Backend & Languages**<br><br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-**Tools**  
+**Tools**<br><br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -54,15 +54,19 @@ In my spare time I create WoW addons, Project Zomboid mods, and self-host far to
 <tr>
 <td width="50%" valign="top">
 
-**[GuildWeave](https://github.com/einfachPudi/GuildWeave)**  
-Modular ruleset, QoL & UI for WoW anniversary realm guilds  
+**[GuildWeave](https://github.com/einfachPudi/GuildWeave)**
+
+Modular ruleset, QoL & UI for WoW anniversary realm guilds
+
 [![CurseForge](https://img.shields.io/curseforge/dt/1502453?style=flat-square&logo=curseforge&color=F16436)](https://www.curseforge.com/wow/addons/guildweave)
 
 </td>
 <td width="50%" valign="top">
 
-**[SchlingelAddon](https://github.com/einfachPudi/SchlingelAddon)**  
-Official addon for the Schlingel Inc WoW guild  
+**[SchlingelAddon](https://github.com/einfachPudi/SchlingelAddon)**
+
+Official addon for the Schlingel Inc WoW guild of derHauge and community
+
 [![CurseForge](https://img.shields.io/curseforge/dt/1224740?style=flat-square&logo=curseforge&color=F16436)](https://www.curseforge.com/wow/addons/schlingel-addon)
 
 </td>
@@ -70,15 +74,19 @@ Official addon for the Schlingel Inc WoW guild
 <tr>
 <td width="50%" valign="top">
 
-**[Sauercrowd](https://github.com/Schlingel-Inc/Sauercrowd)**  
-Official addon for the Sauercrowd WoW HC event  
+**[Sauercrowd](https://github.com/Schlingel-Inc/Sauercrowd)**
+
+Official addon for the Sauercrowd WoW HC event
+
 [![CurseForge](https://img.shields.io/curseforge/dt/1415334?style=flat-square&logo=curseforge&color=F16436)](https://www.curseforge.com/wow/addons/sauercrowd)
 
 </td>
 <td width="50%" valign="top">
 
-**[Endstation](https://github.com/Schlingel-Inc/Endstation)**  
-Modpack for a Project Zomboid RP server  
+**[Endstation](https://github.com/Schlingel-Inc/Endstation)**
+
+Modpack for a Project Zomboid RP server
+
 ![Project Zomboid](https://img.shields.io/badge/Project_Zomboid-Mod-6B7280?style=flat-square)
 
 </td>
