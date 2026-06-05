@@ -1,73 +1,70 @@
 <div align="center">
 
-# Hey, I'm Patrick 👋
+# einfachPudi
 
-**Freelance Developer · Hobby Tinkerer · Self-Hosting Enthusiast · General Tech Guy**
+**Freelance Developer · Game Modder · Homelab Enthusiast**
 
-*Based in Germany — building web things by day, running containers and modding games by night.*
+Building modern web applications with .NET and TypeScript.
+In my spare time I create WoW addons, Project Zomboid mods, and self-host far too many services.
 
 </div>
 
 ---
 
-## About Me
+## Currently Into
 
-- 🔭 Building client sites with **Next.js** & **TypeScript**
-- 🐳 Self-hosting enthusiast — if it runs in Docker, I've probably tried it
-- 🎮 Occasional modder — WoW addons & Project Zomboid
-- 📡 Streaming enthusiast
-- 🔧 If there's something new to try, I'm already running it somewhere
+- Building client sites with Next.js and ASP.NET — making the web slightly less ugly
+- Writing WoW addons and Project Zomboid mods — someone has to
+- Self-hosting things that absolutely have a perfectly good SaaS alternative
+- Automating things that didn't need automation (but they do now)
+
+---
+
+## Current Focus
+
+- Improving GuildWeave — because guild officers deserve nice things too
+- Expanding Endstation — building out the modpack for our PZ RP server
+- Running one too many containers in my homelab
 
 ---
 
 ## Tech Stack
 
-**Web & Frontend**
+**Frontend** — TypeScript • React • Next.js • Blazor
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+**Backend & Languages** — C# • ASP.NET Core • Node.js • Lua
 
-**Backend & Languages**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-**Tools & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Tools** — Docker • Git
 
 ---
 
 ## Projects
 
-**[GuildWeave](https://github.com/Pudl0/GuildWeave)**
-Modular ruleset, QoL & UI for WoW anniversary realm guilds
+**[GuildWeave](https://github.com/einfachPudi/GuildWeave)** — Modular ruleset, QoL & UI for WoW anniversary realm guilds
+
+[![CurseForge](https://img.shields.io/curseforge/dt/1502453?style=for-the-badge&logo=curseforge&label=CurseForge&color=F16436)](https://www.curseforge.com/wow/addons/guildweave)
 
 ---
 
-**[SchlingelAddon](https://github.com/Pudl0/SchlingelAddon)**
-Official addon for the Schlingel Inc WoW guild
+**[SchlingelAddon](https://github.com/einfachPudi/SchlingelAddon)** — Official addon for the Schlingel Inc WoW guild
 
-[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1224740?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/wow/addons/schlingel-addon)
+[![CurseForge](https://img.shields.io/curseforge/dt/1224740?style=for-the-badge&logo=curseforge&label=CurseForge&color=F16436)](https://www.curseforge.com/wow/addons/schlingel-addon)
 
 ---
 
-**[Sauercrowd](https://github.com/Schlingel-Inc/Sauercrowd)**
-Official addon for the Sauercrowd WoW HC event
+**[Sauercrowd](https://github.com/Schlingel-Inc/Sauercrowd)** — Official addon for the Sauercrowd WoW HC event
 
-[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1415334?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/wow/addons/sauercrowd)
+[![CurseForge](https://img.shields.io/curseforge/dt/1415334?style=for-the-badge&logo=curseforge&label=CurseForge&color=F16436)](https://www.curseforge.com/wow/addons/sauercrowd)
+
+---
+
+**[Endstation](https://github.com/Schlingel-Inc/Endstation)** — Modpack for a Project Zomboid RP server
 
 ---
 
 ## Support
 
-[![Follow on GitHub](https://img.shields.io/github/followers/Pudl0?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Pudl0?tab=followers)
-
+[![Follow on GitHub](https://img.shields.io/github/followers/einfachPudi?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/einfachPudi?tab=followers)
 [![Support on Ko-fi](https://img.shields.io/badge/Support%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/einfachpudi)
 
 ---
