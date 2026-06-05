@@ -13,8 +13,8 @@ In my spare time I create WoW addons, Project Zomboid mods, and self-host far to
 
 ## Currently Into
 
-- Building client sites with Next.js and ASP.NET — making the web slightly less ugly
-- Writing WoW addons and Project Zomboid mods — someone has to
+- Building client sites with Next.js — making the web slightly less ugly
+- Writing WoW addons and Project Zomboid mods — I just love to mess with things
 - Self-hosting things that absolutely have a perfectly good SaaS alternative
 - Automating things that didn't need automation (but they do now)
 
@@ -22,9 +22,9 @@ In my spare time I create WoW addons, Project Zomboid mods, and self-host far to
 
 ## Current Focus
 
-- Improving GuildWeave — because guild officers deserve nice things too
-- Expanding Endstation — building out the modpack for our PZ RP server
-- Running one too many containers in my homelab
+- Diving into GuildWeave rewrites that definitely started as "just a quick fix"
+- Filling our PZ RP server with life and creating some immersive stories (mostly)
+- Telling myself I don't need another container in my homelab (then adding two)
 
 ---
 
