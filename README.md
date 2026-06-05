@@ -97,8 +97,11 @@ Modpack for a Project Zomboid RP server
 
 ## Support
 
-[![Follow on GitHub](https://img.shields.io/github/followers/einfachPudi?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/einfachPudi?tab=followers)
-[![Support on Ko-fi](https://img.shields.io/badge/Support%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/einfachpudi)
+<div align="center">
+
+[![Follow on GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/einfachPudi?tab=followers)&nbsp;&nbsp;&nbsp;[![Support on Ko-fi](https://img.shields.io/badge/Support%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/einfachpudi)
+
+</div>
 
 ---
 
